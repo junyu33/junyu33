@@ -8,7 +8,7 @@
 - CTFer | PWNer
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junyu33&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Data](https://github-readme-stats.vercel.app/api?username=junyu33)]()
+<!-- [![Data](https://github-readme-stats.vercel.app/api?username=junyu33)]() -->
 
 <!---
 junyu33/junyu33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
