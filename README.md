@@ -5,7 +5,7 @@
 
 - Student at Sichuan University
 - Pre OIer in [Chengdu No.7 High School](http://www.cdqz.net)
-- CTFer | PWNer
+- ~~CTFer | PWNer~~ now a security researcher
 
 <!---
 junyu33/junyu33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
